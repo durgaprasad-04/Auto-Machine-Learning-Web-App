@@ -5,9 +5,13 @@
 **Features:**
 
 **Data Upload**: Upload your dataset (CSV format) for analysis and model building.
+
 **Exploratory Data Analysis_ (EDA)**: Automatically generate comprehensive EDA reports using Pandas Profiling.
+
 **AutoML**: Build machine learning models using PyCaret, including model comparison, selection, and tuning.
+
 **Streamlit UI**: Interact with the app through a clean and simple web interface powered by Streamlit.
+
 **Model Download**: Export the trained machine learning model for future use.
 
 **Tech Stack:**
@@ -23,10 +27,13 @@
 git clone 
 
 cd Auto Machine learning Web App
+
 **_Install the required dependencies_:**
 
 pip install -r requirements.txt
+
 **_Run the app locally_:**
+
 streamlit run app.py
 
 **Usage**
