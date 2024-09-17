@@ -16,6 +16,7 @@
 **Streamlit**: Enables the app's web interface, making it easy to run and interact with the app locally or online.
 
 **Installation**
+
 **_Clone the repository_**:
 git clone 
 cd Auto Machine learning Web App
