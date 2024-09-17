@@ -17,9 +17,13 @@
 **Tech Stack:**
 
 **_Python_**: The primary programming language for the app.
+
 **_Pandas Profiling_**: Used to generate EDA reports with one click.
+
 **PyCaret**: Provides the machine learning framework for automated model comparison, tuning, and evaluation.
+
 **Streamlit**: Enables the app's web interface, making it easy to run and interact with the app locally or online.
+
 
 **Installation:**
 
