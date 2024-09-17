@@ -19,20 +19,22 @@
 
 **Installation:**
 
-**_Clone the repository_**:
+**_Clone the repository_:**
 git clone 
+
 cd Auto Machine learning Web App
-**_Install the required dependencies_**:
+**_Install the required dependencies_:**
+
 pip install -r requirements.txt
-**_Run the app locally_**:
+**_Run the app locally_:**
 streamlit run app.py
 
 **Usage**
-**Upload**: Upload your dataset by clicking the "Upload" option in the sidebar. Once the dataset is uploaded, you can view it in the main window.
+**Upload:** Upload your dataset by clicking the "Upload" option in the sidebar. Once the dataset is uploaded, you can view it in the main window.
 
-**Profiling**: Generate an exploratory data analysis report by selecting the "Profiling" option. The app will create an in-depth analysis of your data, including missing values, correlations, and summary statistics.
+**Profiling:** Generate an exploratory data analysis report by selecting the "Profiling" option. The app will create an in-depth analysis of your data, including missing values, correlations, and summary statistics.
 
-**ML (AutoML)**: Under the "ML" section, you can choose your target variable and let PyCaret handle the rest. It will automatically compare models and suggest the best-performing one.
+**ML (AutoML):** Under the "ML" section, you can choose your target variable and let PyCaret handle the rest. It will automatically compare models and suggest the best-performing one.
 
-**Download**: Once the model is trained, you can download the best model and use it in your projects.
+**Download:** Once the model is trained, you can download the best model and use it in your projects.
  
